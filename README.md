@@ -9,7 +9,7 @@
 ### [**МОДУЛЬ 03**](/LEC/Modulo_3/Lec_Mod_3.md) -> *Прості числа*
 ### [**МОДУЛЬ 04**](/LEC/Modulo_4/Lec_Mod_4.md) -> *Еліптичні криві*
 
-## 2. [**ЛАБОРАТОРНІ ЗАНЯТТЯ**](/LAB/Lab_Works_00_List.md)
+## 2. [**ПРАКТИЧНІ ЗАНЯТТЯ**](/LAB/Prackt_Works_List.md)
 
 ## 3. [**КУРСОВА РОБОТА**](/Curs_Work/Curs_Work_01_Descript.md)
 
