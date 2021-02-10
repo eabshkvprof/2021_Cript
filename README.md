@@ -1,2 +1,20 @@
-# 2021_Cript
- Mathematical foundations of cryptographic methods
+# **МЕТОДИ ТА ЗАСОБИ КРИПТОГРАФІЧНОГО ЗАХИСТУ ІНФОРМАЦІЇ**
+## Mathematical foundations of cryptographic methods
+# ПРОГРАМА КУРСУ
+### 2020/2021 навч. рік. КІБ-17, 3 курс, 5 семестр
+
+## 1. **ТЕМАТИКА ЛЕКЦИЙ**  
+### [**МОДУЛЬ 01**](/LEC/Modulo_1/Lec_Mod_1.md) -> *Вступ. Криптографія. Модульна арифметика*
+### [**МОДУЛЬ 02**](/LEC/Modulo_2/Lec_Mod_2.md) -> *Алгебраїчні структури*
+### [**МОДУЛЬ 03**](/LEC/Modulo_3/Lec_Mod_3.md) -> *Прості числа*
+### [**МОДУЛЬ 04**](/LEC/Modulo_4/Lec_Mod_4.md) -> *Еліптичні криві*
+
+## 2. [**ЛАБОРАТОРНІ ЗАНЯТТЯ**](/LAB/Lab_Works_00_List.md)
+
+## 3. [**КУРСОВА РОБОТА**](/Curs_Work/Curs_Work_01_Descript.md)
+
+## 5. [**ЕКЗАМЕН**](/Curs_Work/Curs_Work_01_Descript.md)
+
+## 6. [**КРИТЕРІЇ ОЦІНЮВАННЯ**](/Criterion_MPT_full.pdf)
+
+## 7. **РЕКОМЕНДОВНА ЛІТЕРАТУРА**
