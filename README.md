@@ -11,7 +11,7 @@
 
 ## 2. [**ПРАКТИЧНІ ЗАНЯТТЯ**](/2_LAB/Prackt_Works_List.md)
 
-## 3. [**КУРСОВА РОБОТА**](/3_Curs_Work/Curs_Work_Descript.md)
+## 3. [**КУРСОВИЙ ПРОЕКТ**](/3_Curs_Work/Curs_Work_Descript.md)
 
 ## 5. [**ЕКЗАМЕН**](/4_EXAM/Exam_Descript.md)
 
